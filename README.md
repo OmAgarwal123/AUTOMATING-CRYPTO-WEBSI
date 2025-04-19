@@ -1,21 +1,23 @@
-This project automates interaction with a cryptocurrency exchange or data provider using their API. It can fetch real-time prices, track portfolios, and optionally execute trades if supported.
+->This project automates interaction with a cryptocurrency exchange or data provider using their API. It can fetch real-time prices, track portfolios, and optionally execute trades if supported.
 
 Features
-Real-time cryptocurrency price tracking
 
-Automated portfolio updates
+1.Real-time cryptocurrency price tracking
 
-Trade execution via authenticated API endpoints
+2.Automated portfolio updates
 
-Scheduled tasks for data collection or trading
+3.Trade execution via authenticated API endpoints
 
-Export data to CSV or database
+4.Scheduled tasks for data collection or trading
 
-Secure API key handling using .env file
+5.Export data to CSV or database
+
+6.Secure API key handling using .env file
 
 Tech Stack
-Python 3.x
 
-Libraries: requests, pandas, schedule, python-dotenv, ccxt (optional for trading)
+1.Python 3.x
 
-Compatible APIs: Binance, CoinGecko, Coinbase, etc.
+2.Libraries: requests, pandas, schedule, python-dotenv, ccxt (optional for trading)
+
+3.Compatible APIs: Binance, CoinGecko, Coinbase, etc.
